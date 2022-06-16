@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajinsh&show_icons=true" alt="Ajinkya Shinde" /> </p>
+
 <!--
 **ajinsh/ajinsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
