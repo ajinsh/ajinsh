@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 BIO
 
-🌍 You can find me on [ajinsh.dev](https://ajinsh.netlify.app/) 
+🌍 You can find me on [ajinsh.dev](https://ajinsh.netlify.app/)  
+
+*Note: Website under development so you might see starter examoles but all the projects and blogs are on time:)*
 
 👯 I’m looking to collaborate on `Data Engineering`, `Full Stack Development` and `Front-End` 
 
