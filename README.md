@@ -25,7 +25,9 @@ BIO
 
 🌍 You can find me on [ajinsh.dev](https://ajinsh.netlify.app/) 
 
-👯 I’m looking to collaborate on Data Engineering, Full Stack Projects
+👯 I’m looking to collaborate on `Data Engineering`, `Full Stack Development` and `Front-End` 
+
+📫 How to reach me: ajinkya.shinde384@gmail.com
 
  
 BLOG POSTS
