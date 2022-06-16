@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinsh" alt="Ajinkya Shinde" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajinsh&show_icons=true" alt="Ajinkya Shinde" /> </p>
 
 <!--
