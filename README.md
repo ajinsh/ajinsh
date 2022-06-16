@@ -32,4 +32,5 @@ BIO
  
 BLOG POSTS
 
-[Configure Cloudwatch Metric Streams to Opensearch](https://ajinsh.netlify.app/blog/cw-metric-streams-opensearch/)
+* [Configure Cloudwatch Metric Streams to Opensearch](https://ajinsh.netlify.app/blog/cw-metric-streams-opensearch/)
+
