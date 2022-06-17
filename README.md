@@ -38,4 +38,5 @@ BIO
 BLOG POSTS
 
 * [Configure Cloudwatch Metric Streams to Opensearch](https://ajinsh.netlify.app/blog/cw-metric-streams-opensearch/)
+* [Resolve Lambda Transformation for Kinesis Firehose Access Denied Error](https://ajinsh.netlify.app/blog/lambda-transformation-function-invoke-access-denied/)
 
